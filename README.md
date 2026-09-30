@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I specialize in data analysis, machine learning, a
 ---
 
 ## 📜 Certifications
-* **Data Science & Analytics Intern** - Thiranex *(Certificate Pending)*
+* **Data Science & Analytics Intern** -Thiranex_Certificate_Maddy_Appan_THX-AUG1126-157.pdf
 
 ---
 
